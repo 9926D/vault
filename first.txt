@@ -7,3 +7,4 @@ line 6
 and line 7
 don't forget lines 8
 and line 9
+I'm adding another line
