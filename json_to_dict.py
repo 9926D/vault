@@ -1,15 +1,12 @@
 #!/usr/bin/python3
 
+#Simple comment
+
 import json
 
 def j_to_d(text):
 	dict_text = json.loads(text)
 	return dict_text
-
-
-
-
-
 
 
 test = """
