@@ -25,6 +25,19 @@ test = """
       """
 
 print(test)
-
+print('\n')
 new_text = j_to_d(test)
-print(new_text["I"]["a"][1])	 
+print(new_text["I"]["a"][1])	
+print('\n')
+
+for x in new_text.keys():
+	print(x)
+print('\n')
+
+for x in new_text.values():
+	print(x)
+
+print(new_text["I"].values())
+print('\n')
+print(new_text["I"].keys())
+ 
