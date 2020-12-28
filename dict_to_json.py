@@ -5,7 +5,7 @@ def d_to_j(text):
 	text_json = json.dumps(text)
 	return text_json
 
-dict = 		{ 'I': 
+dict_test = 	{ 'I': 
 			{ 'abc' : 
 				{ 'onetwothree':'123',
 				  'fourfivesix':'456'
@@ -23,8 +23,8 @@ dict = 		{ 'I':
 			},
 		  'II':
 			{ '123':
-				'onetwothreefourfivesixseveneightnine'
-			},
+				{ 'onetwothreefourfivesixseveneightnine':'123456789'
+				},
 		
 			  '456':
 				{ 'abc': 'xyz',
@@ -32,12 +32,17 @@ dict = 		{ 'I':
 				  'two': 'b',
 				  'three': 'c'	
 				}
+			}
 		}
 			
 
-json_done = d_to_j(dict)
-print(json_done)		  
-		
+json_done = d_to_j(dict_test)
+print(json_done)	
+
+for x in dict_test.keys():
+	print(x) 	  
+print("\n")
+
 				
 		  
 		
