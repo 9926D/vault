@@ -43,6 +43,15 @@ for x in dict_test.keys():
 	print(x) 	  
 print("\n")
 
-				
+for x in dict_test.values():
+	print(x)
+print("\n")
+
+print(dict_test['I'])
+print("\n")
+
+print(dict_test['I']['abc'])
+print("\n")
+	
 		  
 		
