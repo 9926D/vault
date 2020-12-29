@@ -36,6 +36,10 @@ testing = { "I":
 	}	  
 	    
 	
+comp = dict_examples(testing)
+for k in comp:
+	print(k)
+print("\n")
  
 	 
 			  
