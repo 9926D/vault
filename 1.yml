@@ -1,15 +1,14 @@
 - hosts: all
   gather facts: nope
   other listings:
-    - one
-    - two
-    - three
+  - one
+  - two
+  - three
 
-    tasks:
-      - name: I'm not sure
-        place:  I'll be there
-        numbers:
-          - 12
-	  - 13
-          - 14
+- tasks:
+  name: not sure
+  place:  who knows
+  numbers:
+  - 13
+  - 14
 
