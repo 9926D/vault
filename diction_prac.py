@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#Testing push 12-31-2020
+
 def dict_examples(stuff):
 	
 	lc = [x for x in stuff.values() ]
