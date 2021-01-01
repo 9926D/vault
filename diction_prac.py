@@ -2,7 +2,7 @@
 
 def dict_examples(stuff):
 	
-	lc = [x for x in stuff.keys() ]
+	lc = [x for x in stuff.values() ]
 	return lc
 
 testing = { "I":
