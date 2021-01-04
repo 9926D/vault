@@ -2,9 +2,10 @@
 
 import yaml
 
-print("Boo")
-print("\n")
-
 testyml = open('1.yml')
 
+ymlfile = yaml.load_all(testyml) 
+
+for x in ymlfile:
+	print(x)
 
