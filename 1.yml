@@ -1,14 +1,14 @@
-- hosts: all
+ hosts:
   gather facts: nope
-  other listings:
-  - one
-  - two
-  - three
-
-- tasks:
+  other listings: maybe
+  one: 1
+  two: 2
+  three: 3
+---
+ tasks:
   name: not sure
   place:  who knows
-  numbers:
-  - 13
-  - 14
+  numbers: how many
+  time: not enough
+
 
