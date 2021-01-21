@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Sneakers type="all sports">
+ <Running>
+   <Nike id="108">
+     <Nike_Men>
+       <React Price="$100">FlyKnit 2</React>
+       <Zoom Price="$115">Tempo Next</Zoom>
+       <ZoomX Price="$125">Vaporfly</ZoomX>
+       <ZoomX Price="$145">Alphafly</ZoomX>
+     </Nike_Men>
+   </Nike>
+ </Running>
+ <Running>  
+   <Saucony id="102">
+     <Saucony_Men>
+       <Endorphin Price="$120">Pro</Endorphin>
+       <Endorphin Price="$155">Speed</Endorphin>
+       <Endorphin Price="$195">Shift</Endorphin>
+     </Saucony_Men>
+   </Saucony>
+ </Running>
+ <Running>
+   <Adidas id="106">
+     <Adidas_Men>
+       <Ultraboost Price="$180">21</Ultraboost>
+       <Ultraboost Price="$165">DNA</Ultraboost>
+       <Questar Price="$135">Flow</Questar>
+       <Supernova Price="$185">Winter</Supernova>
+     </Adidas_Men>
+   </Adidas>
+ </Running>
+ <Running>
+   <Brooks id="114">
+     <Brooks_Men>
+       <Launch Price="$100">8</Launch>
+       <Richochet Price="$120">3</Richochet>
+       <Levitate Price="$150">4</Levitate>
+       <Glycerin Price="$130">18</Glycerin>
+       <Addiction Price="$130">14</Addiction>
+     </Brooks_Men>
+   </Brooks>
+ </Running>
+ <Running>
+   <Asics id="110">
+     <Asics_Men>
+       <Gel_Nimbus Price="$150">23</Gel_Nimbus>
+       <Gel_Kayano Price="$160">Lite</Gel_Kayano>
+       <Gel_Cumulus Price="$120">Tokyo</Gel_Cumulus>
+       <GT_2000 Price="$130">9</GT_2000>
+       <GT_1000 Price="$120">9</GT_1000>
+     </Asics_Men>
+   </Asics> 
+  </Running>
+</Sneakers>
+   
