@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Musicbox edition="1.9">Mixed Collection
+  <Artist name="Anita Baker">
+    <Album number="2">Rapture</Album>
+    <Year>1986</Year>
+    <Sales CC="US">5,000,000</Sales>
+    <Platinum>Yes</Platinum>
+    <Gold>Yes</Gold>
+  </Artist>
+  <Artist name="Lionel Richie">
+    <Album number="3">Dancing on the Ceiling</Album>
+    <Year>1986</Year>
+    <Sales CC="US">4,000,000</Sales>
+    <Platinum>Yes</Platinum>
+    <Gold>Yes</Gold>
+  </Artist>
+  <Artist name="Stephanie Mills">
+    <Album number="1">What Cha' Gonna Do with My Lovin'</Album>
+    <Year>1979</Year>
+    <Sales CC="US">500,000</Sales>
+    <Platinum>No</Platinum>
+    <Gold>Yes</Gold>
+  </Artist>
+  <Artist name="Denise Williams">
+    <Album number="7">Let's Hear it For the Boy</Album>
+    <Year>1984</Year>
+    <Sales CC="US">1,000,000</Sales>
+    <Platinum>Yes</Platinum>
+    <Gold>Yes</Gold>
+  </Artist>
+</Musicbox>
