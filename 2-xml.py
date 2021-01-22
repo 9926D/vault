@@ -6,7 +6,9 @@ def root_tag_text(doc):				#Returns root tag and root text in a dicionary
   rttd = {}
   r = T.parse(doc)
   t = r.getroot()
-  rttd.update( {t.tag : t.text} )
+  ta = t.text
+  tf = ta[:-3]
+  rttd.update( {t.tag : tf} )
   return rttd
 
 def artist_loop(doc):				#Returns subtrees (Artists) from root (Musicbox)
