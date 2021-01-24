@@ -39,6 +39,10 @@ dict_test = 	{ 'I':
 json_done = d_to_j(dict_test)
 print(json_done)	
 
+print("\n")
+print(type(json_done))
+print("\n")
+
 for x in dict_test.keys():
 	print(x) 	  
 print("\n")
