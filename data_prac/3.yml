@@ -1,18 +1,21 @@
 States:
-  PA: Harrisburg
-  NY: Albany
-  Cities:
-    - New York City
-    - Yonkers
-    - Westchester
-    - Mount Vernon
-    - New Rochelle
-  CT: Hartford
-  NJ: Trenton
-  Cities:
+  CT:
+    Cities:
+    - Hartford
+  NJ:
+    Cities:
     - Newark
     - Bloomfield
     - Elizabeth
     - Jersey City
     - Paterson
-  
+  NY:
+    Cities:
+    - New York City
+    - Yonkers
+    - Westchester
+    - Mount Vernon
+    - Brooklyn
+  PA:
+    Cities:
+    - Harrisburg
