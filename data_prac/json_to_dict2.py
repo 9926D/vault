@@ -14,7 +14,8 @@ json_text = """
  	      { "Basketball" : "Nike Under Armour Reebok Adidas" },
 	      { "Baseball" : "Converse Avia Under Armour Converse"}
 			],
-	        
+	       
+	     
 	    "Leisure": [
 		{ "Walking": "Pro-Keds Saucony Brooks Asics Puma"},
 		{ "Traveling": "Pumas Reebok Adidas New Balance" },
@@ -22,7 +23,8 @@ json_text = """
 			]	 
 		 }
 		 	
-	     }  
+	     }
+	  
 	    """
 
 mydict = json_to_dict(json_text)
