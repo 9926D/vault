@@ -1,17 +1,1 @@
-{ "Sneakers" : 
-             {
-            "Sports" : [ 
-              { "Running" : "Asics Saucony Brooks Nike" },
-              { "Basketball" : "Nike Under Armour Reebok Adidas" },
-              { "Baseball" : "Converse Avia Under Armour Converse"}
-                        ],
-                
-            "Leisure": [
-                { "Walking": "Pro-Keds Saucony Brooks Asics Puma"},
-                { "Traveling": "Pumas Reebok Adidas New Balance" },
-                { "Dating": "Pumas Reebok Adidas New Balance" }
-                        ]        
-                 }
-                 
-             }  
-
+{"Sneakers": {"Sports": [{"Running": "Asics Saucony Brooks Nike"}, {"Basketball": "Nike Under Armour Reebok Adidas"}, {"Baseball": "Converse Avia Under Armour Converse"}], "Leisure": [{"Walking": "Pro-Keds Saucony Brooks Asics Puma"}, {"Traveling": "Pumas Reebok Adidas New Balance"}, {"Dating": "New Balance Adidas Reebok Puma"}]}}

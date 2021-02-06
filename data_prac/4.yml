@@ -1,50 +1,44 @@
 Networking:
-  Vendor: Cisco
-  Layers:
-    - 1
-    - 2
-    - 3
-    - 4
   Functions:
-    - routing
-    - switching
-    - ACLs
-    - QoS/CoS
-
-Systems:
-  Vendor: 
-    - Microsoft
-    - Linux
+  - routing
+  - switching
+  - ACLs
+  - QoS/CoS
   Layers:
-    - 4
-    - 5
-    - 6
-    - 7
-  Functions:
-    - AD
-    - DNS
-    - Web
-    - Permissions
-  Free:
-    - Linux: Yes
-    - Windows: No
-
+  - 1
+  - 2
+  - 3
+  - 4
+  Vendor: Arista
 Security:
-  Vendor: Checkpoint
-  Layers:
-    - 4
-    - 5
-    - 6
-    - 7
   Functions:
-    - VPN
-    - 2FA
-    - Proxy
-
+  - VPN
+  - 2FA
+  - Proxy
+  Layers:
+  - 4
+  - 5
+  - 6
+  - 7
+  Vendor: Checkpoint
 Storage:
-  Vendor: EMC
-  Layers: N/A
   Functions: Backup
-    
-
-
+  Layers: N/A
+  Vendor: EMC
+Systems:
+  Free:
+  - Linux: true
+  - Windows: false
+  Functions:
+  - AD
+  - DNS
+  - Web
+  - Permissions
+  Layers:
+  - 4
+  - 5
+  - 6
+  - 7
+  Vendor:
+  - Microsoft
+  - Linux

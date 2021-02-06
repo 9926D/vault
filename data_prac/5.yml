@@ -1,17 +1,16 @@
-Music:
-  Relaxing: Jazz
-  Working Out: Rap
-  Studying: Blues
-  Sleeping: Easy Listening
-  Driving:  Rhythm and Blues
----
 Jazz:
-  - Miles Davis
-  - Herbie Hancock
-  - Donald Bryd
-  - Charlie Parker
+- Miles Davis
+- Herbie Hancock
+- Donald Bryd
+- Charles Mingus
+Music:
+  Driving: Rhythm and Blues
+  Relaxing: Jazz
+  Sleeping: Easy Listening
+  Studying: Chillhop
+  Working Out: Rap
 Rap:
-  - Nas
-  - Emimem
-  - Rakim
-  - Black Thought
+- Nas
+- Emimem
+- Rakim
+- Black Thought
